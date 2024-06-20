@@ -95,5 +95,5 @@
 
 <h4 align="left">Status</h4>
 <div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anugrahp13&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="anugrahp13" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=anugrahp13" alt="anugrahp13" />
 </div>
