@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, My name is Anugrah Prastyo, <br> i am Front-end Web Developer from Indonesia</h1>
 <p align="left">i'm Anugrah Prastyo, a Front-end Web Developer who has been working as a freelancer for one year. As a Front-end Web Developer, I have a strong desire to create beautiful, simple, and user-friendly websites.</p>
 
-<h3 align="left">Primary Languages:</h3>
+<h3 align="left">PRIMARY</h3>
 <div align="left">
     <a target="_blank" rel="noopener noreferrer nofollow">
         <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="40" style="max-width: 100%"/> 
@@ -35,6 +35,61 @@
     </a>
     <a target="_blank" rel="noopener noreferrer nofollow">
         <img src="https://skillicons.dev/icons?i=react" alt="React" height="40" style="max-width: 100%"/> 
+    </a>
+</div>
+
+<h3 align="left">HOBBIES</h3>
+<div align="left">
+    <a target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="40" style="max-width: 100%"/> 
+    </a>
+    <a target="_blank" rel="noopener noreferrer">
+        <img width="12" style="max-width: 100%;">
+    </a>
+    <a target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://skillicons.dev/icons?i=ts" alt="TS" height="40" style="max-width: 100%"/> 
+    </a>
+    <a target="_blank" rel="noopener noreferrer">
+        <img width="12" style="max-width: 100%;">
+    </a>
+    <a target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://skillicons.dev/icons?i=sequelize" alt="Sequelize" height="40" style="max-width: 100%"/> 
+    </a>
+    <a target="_blank" rel="noopener noreferrer">
+        <img width="12" style="max-width: 100%;">
+    </a>
+    <a target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="NextJS" height="40" style="max-width: 100%"/> 
+    </a>
+    <a target="_blank" rel="noopener noreferrer">
+        <img width="12" style="max-width: 100%;">
+    </a>
+    <a target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="40" style="max-width: 100%"/> 
+    </a>
+    <a target="_blank" rel="noopener noreferrer">
+        <img width="12" style="max-width: 100%;">
+    </a>
+    <a target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://skillicons.dev/icons?i=mint" alt="Linux Mint" height="40" style="max-width: 100%"/> 
+    </a>
+    <a target="_blank" rel="noopener noreferrer">
+        <img width="12" style="max-width: 100%;">
+    </a>
+    <a target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" style="max-width: 100%"/> 
+    </a>
+    <a target="_blank" rel="noopener noreferrer">
+        <img width="12" style="max-width: 100%;">
+    </a>
+    <a target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://skillicons.dev/icons?i=git" alt="Git" height="40" style="max-width: 100%"/> 
+    </a>
+    <a target="_blank" rel="noopener noreferrer">
+        <img width="12" style="max-width: 100%;">
+    </a>
+    <a target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="40" style="max-width: 100%"/> 
     </a>
 </div>
 
