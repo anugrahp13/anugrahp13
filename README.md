@@ -4,22 +4,22 @@
 <h3 align="left">Primary Languages:</h3>
 <p align="left">
     <a href="https://skillicons.dev/icon?i=html" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icon?i=html" alt="HTML" width="40" height="40"/> 
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40"/> 
     </a>
     <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icon?i=css" alt="CSS" width="40" height="40"/> 
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40"/> 
     </a>
     <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=js" alt="Javascript" width="40" height="40"/> 
     </a>
     <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icon?i=bootstrap" alt="Bootstrap" width="40" height="40"/> 
+        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40"/> 
     </a>
     <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icon?i=tailwind" alt="Tailwind" width="40" height="40"/> 
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="40" height="40"/> 
     </a>
     <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icon?i=react" alt="React" width="40" height="40"/> 
+        <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/> 
     </a>
 </p>
 
