@@ -3,10 +3,10 @@
 
 <h3 align="left">Primary Languages:</h3>
 <div align="left">
-    <a href="https://skillicons.dev/icons?i=html" target="_blank" rel="noopener noreferrer nofollow">
+    <a target="_blank" rel="noopener noreferrer nofollow">
         <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="40" style="max-width: 100%"/> 
     </a>
-    <a href target="_blank" rel="noopener noreferrer">
+    <a target="_blank" rel="noopener noreferrer">
         <img width="12" style="max-width: 100%;">
     </a>
     <a href="https://skillicons.dev/icons?i=css" target="_blank" rel="noopener noreferrer nofollow">
