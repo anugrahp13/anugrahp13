@@ -87,13 +87,14 @@
     </a>
 </div>
 
-<h4 align="left">Follow Me</h4>
+<h4 align="left">FOLLOW ME</h4>
 <div align="left">
     <a href="https://instagram.com/tio.code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tio.code" height="30" width="40" /></a>
     <a href="https://linkedin.com/in/anugrah-prastyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anugrah-prastyo" height="30" width="40" /></a>
 </div>
 
-<h4 align="left">Status</h4>
+<h4 align="left">STATUS</h4>
 <div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=anugrahp13&show_icons=true&theme=github_dark" alt="anugrahp13" style="border: none;"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=anugrahp13&show_icons=true&theme=github_dark" alt="Stats Card"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anugrahp13&layout=compact&theme=github_dark" alt="Languages Card"/>
 </div>
