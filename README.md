@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, My name is Anugrah Prastyo, a Front-end Web Developer from Indonesia</h1>
-<h3 align="center">My name is Anugrah Prastyo, a Front-end Web Developer who has been working as a freelancer for one year. As a Front-end Web Developer, I have a strong desire to create beautiful, simple, and user-friendly websites.</h3>
+<h1 align="left">Hi 👋, My name is Anugrah Prastyo, <br> i am Front-end Web Developer from Indonesia</h1>
+<h3 align="left">My name is Anugrah Prastyo, a Front-end Web Developer who has been working as a freelancer for one year. As a Front-end Web Developer, I have a strong desire to create beautiful, simple, and user-friendly websites.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
