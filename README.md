@@ -10,7 +10,7 @@
         <img src="https://skillicons.dev/icon?i=css" alt="CSS" width="40" height="40"/> 
     </a>
     <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icon?i=javascript" alt="Javascript" width="40" height="40"/> 
+        <img src="https://skillicons.dev/icons?i=js" alt="Javascript" width="40" height="40"/> 
     </a>
     <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icon?i=bootstrap" alt="Bootstrap" width="40" height="40"/> 
