@@ -2,26 +2,26 @@
 <p align="left">i'm Anugrah Prastyo, a Front-end Web Developer who has been working as a freelancer for one year. As a Front-end Web Developer, I have a strong desire to create beautiful, simple, and user-friendly websites.</p>
 
 <h3 align="left">Primary Languages:</h3>
-<p align="left">
-    <a href="https://skillicons.dev/icon?i=html" target="_blank" rel="noreferrer">
+<div align="left">
+    <a href="https://skillicons.dev/icons?i=html" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40"/> 
     </a>
-    <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
+    <a href="https://skillicons.dev/icons?i=css" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40"/> 
     </a>
-    <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
+    <a href="https://skillicons.dev/icons?i=js" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=js" alt="Javascript" width="40" height="40"/> 
     </a>
-    <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
+    <a href="https://skillicons.dev/icons?i=bootstrap" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40"/> 
     </a>
-    <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
+    <a href="https://skillicons.dev/icons?i=tailwind" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="40" height="40"/> 
     </a>
-    <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
+    <a href="https://skillicons.dev/icons?i=react" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/> 
     </a>
-</p>
+</div>
 
 <h3 align="left">Follow with me:</h3>
 <p align="left">
