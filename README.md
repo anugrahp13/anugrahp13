@@ -87,14 +87,13 @@
     </a>
 </div>
 
-<h4 align="left">Follow me:</h4>
+<h4 align="left">Follow Me</h4>
 <div align="left">
     <a href="https://instagram.com/tio.code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tio.code" height="30" width="40" /></a>
     <a href="https://linkedin.com/in/anugrah-prastyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anugrah-prastyo" height="30" width="40" /></a>
 </div>
 
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anugrahp13&show_icons=true&locale=en&layout=compact" alt="anugrahp13" /></div>
-
-<div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anugrahp13&show_icons=true&locale=en" alt="anugrahp13" /></div>
-
-<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anugrahp13&" alt="anugrahp13" /></div>
+<h4 align="left">Status</h4>
+<div>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anugrahp13&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="anugrahp13" />
+</div>
