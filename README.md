@@ -14,8 +14,6 @@
     <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" height="40"/> 
     <img width="12">
     <img src="https://skillicons.dev/icons?i=react" alt="React" height="40"/>
-    <img width="12">
-    <img src="https://skillicons.dev/icons?i=react" alt="React" height="40"/> 
 </div>
 
 <h4 align="left">HOBBIES</h4>
