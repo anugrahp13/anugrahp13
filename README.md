@@ -3,7 +3,7 @@
 
 <h3 align="left">Primary Languages:</h3>
 <p align="left">
-    <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
+    <a href="https://skillicons.dev/icon?i=html" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icon?i=html" alt="HTML" width="40" height="40"/> 
     </a>
     <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
