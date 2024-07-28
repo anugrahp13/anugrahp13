@@ -18,6 +18,10 @@
     <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" height="40"/> 
     <img width="12">
     <img src="https://skillicons.dev/icons?i=react" alt="React" height="40"/>
+    <img width="12">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node JS" height="40"/>
+    <img width="12">
+    <img src="https://skillicons.dev/icons?i=vite" alt="Vite" height="40"/>
 </div>
 
 ###
@@ -34,11 +38,17 @@
     <img width="12">
     <img src="https://skillicons.dev/icons?i=mint" alt="Linux Mint" height="40"/>
     <img width="12">
+    <img src="https://skillicons.dev/icons?i=ubuntu" alt="Linux Ubuntu" height="40"/>
+    <img width="12">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40"/> 
     <img width="12">
     <img src="https://skillicons.dev/icons?i=git" alt="Git" height="40"/>
     <img width="12">
-    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="40"/> 
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="40"/>
+    <img width="12">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" height="40"/> 
+    <img width="12">
+    <img src="https://skillicons.dev/icons?i=notion" alt="Notion" height="40"/> 
 </div>
 
 ###
