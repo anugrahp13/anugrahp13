@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align="left">Primay</h4>
+<h4 align="left">Primary</h4>
 <div align="left">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -19,7 +19,7 @@
 
 ###
 
-<h4 align="left">Other stuff I've tried</h4>
+<h4 align="left">Other Stuff I've Tried</h4>
 <div align="left">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
@@ -35,10 +35,11 @@
 ###
 
 <h4 align="left">My Github Stats</h4>
-[![Anugrah Prastyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=anugrahp13&show_icons=true&theme=gruvbox)]
+![Anugrah Prastyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=anugrahp13&show_icons=true&theme=gruvbox)
 
 ###
-<h2 align="left">Play Game with Me</h2>
+
+<h4 align="left">Play Game with Me</h4>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anugrahp13/anugrahp13/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anugrahp13/anugrahp13/output/pacman-contribution-graph.svg">
