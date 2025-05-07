@@ -34,11 +34,6 @@
 
 ###
 
-<h4 align="left">My Github Stats</h4>
-![Anugrah Prastyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=anugrahp13&show_icons=true&theme=gruvbox)
-
-###
-
 <h4 align="left">Play Game with Me</h4>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anugrahp13/anugrahp13/output/pacman-contribution-graph-dark.svg">
