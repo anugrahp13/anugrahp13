@@ -1,69 +1,51 @@
 <h1 align="left">Hi 👋, My name is Anugrah Prastyo, <br> i am Front-end Web Developer from Indonesia.</h1>
 ###
 
+![Header](/image/github-header-image.png)
+
 <p align="left">i'm Anugrah Prastyo, a Front-end Web Developer who has been working as a freelancer for one year. As a Front-end Web Developer, I have a strong desire to create beautiful, simple, and user-friendly websites.</p>
 
 ###
 
-<h4 align="left">PRIMARY</h4>
+<h4 align="left">Primay</h4>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="40"/>
-    <img width="12">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="40"/> 
-    <img width="12">
-    <img src="https://skillicons.dev/icons?i=js" alt="Javascript" height="40"/> 
-    <img width="12">
-    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="40"/> 
-    <img width="12">
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" height="40"/> 
-    <img width="12">
-    <img src="https://skillicons.dev/icons?i=react" alt="React" height="40"/>
-    <img width="12">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node JS" height="40"/>
-    <img width="12">
-    <img src="https://skillicons.dev/icons?i=vite" alt="Vite" height="40"/>
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-green?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"/>
 </div>
 
 ###
 
-<h4 align="left">HOBBIES</h4>
+<h4 align="left">Other stuff I've tried</h4>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="40"/>
-    <img width="12">
-    <img src="https://skillicons.dev/icons?i=ts" alt="TS" height="40"/> 
-    <img width="12">
-    <img src="https://skillicons.dev/icons?i=sequelize" alt="Sequelize" height="40"/> 
-    <img width="12">
-    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="40"/>
-    <img width="12">
-    <img src="https://skillicons.dev/icons?i=mint" alt="Linux Mint" height="40"/>
-    <img width="12">
-    <img src="https://skillicons.dev/icons?i=ubuntu" alt="Linux Ubuntu" height="40"/>
-    <img width="12">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40"/> 
-    <img width="12">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" height="40"/>
-    <img width="12">
-    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="40"/>
-    <img width="12">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" height="40"/> 
-    <img width="12">
-    <img src="https://skillicons.dev/icons?i=notion" alt="Notion" height="40"/> 
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </div>
 
 ###
 
-<h4 align="left">FOLLOW ME</h4>
-<div align="left">
-    <a href="https://instagram.com/tio.code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tio.code" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/anugrah-prastyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anugrah-prastyo" height="30" width="40" /></a>
-</div>
+<h4 align="left">My Github Stats</h4>
+[![Anugrah Prastyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=anugrahp13&show_icons=true&theme=gruvbox)]
 
 ###
+<h2 align="left">Play Game with Me</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anugrahp13/anugrahp13/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anugrahp13/anugrahp13/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anugrahp13/anugrahp13/output/pacman-contribution-graph.svg">
+</picture>
 
-<h4 align="left">STATUS</h4>
-<details>
-  <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anugrahp13&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  </div>
-</details>
+###
