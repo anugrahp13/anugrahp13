@@ -1,6 +1,6 @@
 ![Header](/image/github-header-image.png)
 
-<p align="left">i'm Anugrah Prastyo, a Front-end Web Developer who has been working as a freelancer for one year. As a Front-end Web Developer, I have a strong desire to create beautiful, simple, and user-friendly websites.</p>
+<p align="left">I am Anugrah Prastyo, a web developer who has been working as a freelancer for one year. As a web developer, I have a strong desire to create a website that can be useful for many people, beautiful, simple, and easy to use.</p>
 
 ###
 
