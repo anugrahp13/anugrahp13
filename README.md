@@ -1,6 +1,3 @@
-<h1 align="left">Hi 👋, My name is Anugrah Prastyo, <br> i am Front-end Web Developer from Indonesia.</h1>
-###
-
 ![Header](/image/github-header-image.png)
 
 <p align="left">i'm Anugrah Prastyo, a Front-end Web Developer who has been working as a freelancer for one year. As a Front-end Web Developer, I have a strong desire to create beautiful, simple, and user-friendly websites.</p>
